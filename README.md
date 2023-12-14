@@ -5,3 +5,4 @@ leetcode practise
 - buy and sell stock
 - product of array except self
 - containsDuplicate
+- maximumSubArray
